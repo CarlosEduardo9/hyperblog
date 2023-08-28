@@ -7,3 +7,5 @@ cueste lo que cueste
 bueno, tengo que escribir para seguir aprendiendo
 
 saludos
+
+otra prueba para entender VIM
