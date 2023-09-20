@@ -12,4 +12,6 @@ otra prueba para entender VIM
 
 ahora otra pureba para ver el cambio de diferentes archivos, se agre un html y un css.
 
+master1
+
 ESTO ES UN TEXTO DONDE ESCRIBO DESDE VI
